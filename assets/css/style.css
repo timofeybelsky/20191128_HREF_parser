@@ -1,0 +1,9 @@
+@import "reset.css";
+
+.container{
+    max-width: 600px;
+    margin: 0 auto;
+    background-color: gray;
+    min-height: 100vh;
+}
+
